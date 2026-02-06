@@ -194,7 +194,7 @@ if __name__ == "__main__":
         time.sleep(2)
 
 <h3> EXPECTED OUTPUT </h3>
-  Status of patients BEFORE treatment:
+<p>Status of patients BEFORE treatment: </p>
 {(0, 0): 'healthy', (1, 0): 'unhealthy'}
 Agent Location: (1, 0)
 Performance: 0
